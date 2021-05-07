@@ -7,7 +7,7 @@ Intentamos mejorar en cada uno de nuestros _sprints_, siguiendo la frase de **Ag
 >“We practice improvement through work,
 >work through improvement, one sprint at a time!”
 ## Temática
-Nuestro proyecto busca desarrollarr un portal de registro de vacunación eficiente e intuitivo para adultes mayores (y usuaries en general). Como principales funcionalidades logramos: 
+Nuestro proyecto busca desarrollar un portal de registro de vacunación eficiente e intuitivo para adultes mayores (y usuaries en general). Como principales funcionalidades logramos: 
 
 - Recibir y guardar el CURP de la persona a ser vacunada
 - Registrar a la persona que se va a vacunar 
