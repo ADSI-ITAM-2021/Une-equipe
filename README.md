@@ -14,7 +14,7 @@ Nuestro proyecto busca desarrollarr un portal de registro de vacunación eficien
 - Una página de preguntas frecuentes para informar mejor al usuario 
 - Una confirmación de registro 
 
-Aquí puedes consultar nuestro [modelo de alta funcionalidad](https://www.figma.com/file/OAszkwJaOKu6IfdBCcaX8e/Untitled?node-id=0%3A1)
+Aquí puedes consultar nuestro [modelo de alta funcionalidad](https://www.figma.com/file/OAszkwJaOKu6IfdBCcaX8e/Untitled?node-id=0%3A1).
 ## Uso de GitHub
 
 Para facilitar el trabajo en equipo utilizamos GitHub. En esta página, subimos nuestras distintas versiones del proyecto. Además, compartimos otros documentos útiles y realizamos un Backlog, In Progress y Done con las User Storys de nuestro proyecto. A estas les pusimos Lables para que fuera mas fácil interpretarlas. 
