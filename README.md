@@ -10,6 +10,7 @@ Intentamos mejorar en cada uno de nuestros _sprints_, siguiendo la frase de **Ag
 Nuestro proyecto busca desarrollar un portal de registro de vacunación eficiente e intuitivo para adultes mayores (y usuaries en general). Como principales funcionalidades logramos: 
 
 - Recibir y guardar el CURP de la persona a ser vacunada
+- Si la persona a ser vacunada no sabe su CURP, puede ser redireccionada a la página oficial del CURP
 - Registrar a la persona que se va a vacunar 
 - Una página de preguntas frecuentes para informar mejor al usuario 
 - Una confirmación de registro 
