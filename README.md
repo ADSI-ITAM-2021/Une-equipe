@@ -23,7 +23,9 @@ Aquí puedes consultar nuestro [modelo de alta funcionalidad](https://www.figma.
 
 [![Registro](https://drive.google.com/uc?export=view&id=1J8qOcBRMGWt69W8wwODUNGPsu09-kbzV)](https://drive.google.com/uc?export=view&id=1J8qOcBRMGWt69W8wwODUNGPsu09-kbzV)
 
+[![PreguntasFrecuentes](https://drive.google.com/uc?export=view&id=1JGx1g5IkDC7rTFGmzuMX8JkGFtG4k-FY)](https://drive.google.com/uc?export=view&id=1JGx1g5IkDC7rTFGmzuMX8JkGFtG4k-FY)
 
+[![Confirmacion](https://drive.google.com/uc?export=view&id=1_33H70hrxh65XrAV3AQIkoWQrgkrC7GN)](https://drive.google.com/uc?export=view&id=1_33H70hrxh65XrAV3AQIkoWQrgkrC7GN)
 
 
 ## Uso de GitHub
