@@ -33,7 +33,7 @@ Aquí puedes consultar nuestro [modelo de alta funcionalidad](https://www.figma.
 Para facilitar el trabajo en equipo utilizamos GitHub. En esta página, subimos nuestras distintas versiones del proyecto. Además, compartimos otros documentos útiles y realizamos un _Backlog_, _In Progress_ y _Done_ con las _User Storys_ de nuestro proyecto. A estas les pusimos Lables para que fuera mas fácil interpretarlas. 
 
 ## Nuestro equipo
-Sofía Albert
-Natalia Hernández
-Fernanda Loaeza
+Sofía Albert,
+Natalia Hernández,
+Fernanda Loaeza,
 Jorge Edgar Rodríguez
